@@ -1,0 +1,10 @@
+{
+  "name": "1-two-sum",
+  "version": "1.0.0",
+  "author": "kawaii-snafy",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}

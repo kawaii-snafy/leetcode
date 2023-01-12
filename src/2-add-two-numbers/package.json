@@ -1,5 +1,5 @@
 {
-  "name": "4-median-of-two-sorted-arrays",
+  "name": "2-add-two-numbers",
   "scripts": {
     "start": "node index.js",
     "start:dev": "nodemon index.js"

@@ -1,5 +1,5 @@
 {
-  "name": "4-median-of-two-sorted-arrays",
+  "name": "3-longest-substring-without-repeating-characters",
   "scripts": {
     "start": "node index.js",
     "start:dev": "nodemon index.js"

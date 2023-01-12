@@ -1,0 +1,22 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "description": "Leetcode problems",
+  "author": "ya.shirokov@icloud.com",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kawaii-snafy/leetcode.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kawaii-snafy/leetcode/issues"
+  },
+  "homepage": "https://github.com/kawaii-snafy/leetcode#readme",
+  "workspaces": [
+    "src/*"
+  ],
+  "devDependencies": {
+    "nodemon": "^2.0.20",
+    "prettier": "^2.8.1"
+  }
+}

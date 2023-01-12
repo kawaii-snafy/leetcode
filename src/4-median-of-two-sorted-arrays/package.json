@@ -1,0 +1,10 @@
+{
+  "name": "4-median-of-two-sorted-arrays",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20",
+    "prettier": "^2.8.1"
+  }
+}
